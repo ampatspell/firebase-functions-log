@@ -1,0 +1,14 @@
+{
+  "name": "firebase-functions-log",
+  "version": "0.0.1",
+  "description": "Nicer firebase functions:log",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "minimist": "^1.2.5"
+  }
+}
