@@ -1,5 +1,5 @@
 {
-  "name": "ffl",
+  "name": "firebase-functions-log",
   "version": "0.1.0",
   "description": "Slighly nicer firebase functions:log",
   "main": "lib/index.js",
