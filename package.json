@@ -7,6 +7,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bin": {
+    "ffl": "./cli.js"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "inquirer": "^7.0.0",
