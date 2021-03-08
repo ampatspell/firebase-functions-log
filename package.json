@@ -1,6 +1,6 @@
 {
   "name": "ffl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Slighly nicer firebase functions:log",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "license": "MIT",
   "author": "Arnis Vuskans <ampatspell@gmail.com> (http://www.amateurinmotion.com/)",
   "bin": {
-    "ffl": "./cli.js"
+    "ffl": "cli.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
