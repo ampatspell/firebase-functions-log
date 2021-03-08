@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "Slighly nicer firebase functions:log",
   "main": "lib/index.js",
-  "scripts": {},
+  "scripts": {
+    "tags": "git push --follow-tags",
+    "minor": "npm version minor; npm run tags",
+    "patch": "npm version patch; npm run tags"
+  },
   "keywords": [
     "firebase",
     "functions",
