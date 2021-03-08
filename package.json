@@ -1,12 +1,21 @@
 {
-  "name": "firebase-functions-log",
+  "name": "ffl",
   "version": "0.0.1",
-  "description": "Nicer firebase functions:log",
+  "description": "Slighly nicer firebase functions:log",
   "main": "lib/index.js",
   "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "firebase",
+    "functions",
+    "log",
+    "tail"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ampatspell/firebase-functions-log.git"
+  },
+  "license": "MIT",
+  "author": "Arnis Vuskans <ampatspell@gmail.com> (http://www.amateurinmotion.com/)",
   "bin": {
     "ffl": "./cli.js"
   },
