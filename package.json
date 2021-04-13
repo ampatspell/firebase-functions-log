@@ -1,7 +1,7 @@
 {
   "name": "firebase-functions-log",
   "version": "0.1.8",
-  "description": "Slighly nicer firebase functions:log",
+  "description": "Slightly nicer firebase functions:log",
   "main": "lib/index.js",
   "scripts": {
     "tags": "git push --follow-tags",
