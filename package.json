@@ -1,6 +1,6 @@
 {
   "name": "firebase-functions-log",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Slighly nicer firebase functions:log",
   "main": "lib/index.js",
   "scripts": {
